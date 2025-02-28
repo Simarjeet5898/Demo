@@ -1,4 +1,4 @@
 # Demo
 This is my git repository
 <br>
-Author ~ Simarjeet
+Author ~ Simarjeet Singh
